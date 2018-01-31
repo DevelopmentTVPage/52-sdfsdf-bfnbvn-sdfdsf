@@ -6,7 +6,7 @@
     "layout": "bootstrap",
     "css": {
         ".widget-title": {
-            "widget_title_display": "none"
+            "widget_title_display": "block"
         }
     }
 }
